@@ -6,14 +6,14 @@
 var firstName, firstName1, firstName2, firstName3, just;
 
 //initialite 
-var lastName = "Volkov", middleName = "vasya", tall = "10";
+var lastName = "Volkov", middleName = "vasya", tall = "165sm ";
 
 // assignment
 just = "Hello"
 firstName = "Galya"
 firstName1 = "Vasya";
 firstName2 = "Petya";
-firstName3 = "Bye<3";
+firstName3 = "Bye";
 
 
 console.log(just)
@@ -22,3 +22,6 @@ console.log(firstName1);
 console.log(firstName2);
 console.log(firstName3);
 
+// example 1 math 
+var potatoes =5, tomatoes = 3;
+var vegetables = potatoes + tomatoes
