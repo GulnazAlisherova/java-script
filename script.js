@@ -64,4 +64,4 @@ console.log(squareArea);
  var i = 0.2;
  var r = 5;
  var powerPhysics = (i * i) /r;
- 
+ console.log(powerPhysics);
