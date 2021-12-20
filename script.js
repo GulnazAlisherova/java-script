@@ -4,5 +4,6 @@
 
 //declaration
 var firstName;
-var lastName;
-var age;
+
+//initialite 
+var lastName = "Volkov";
