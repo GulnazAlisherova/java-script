@@ -55,8 +55,8 @@ console.log(squareArea);
  console.log(circleTriangle);
 
  // example 6 math
- var v = 4;
  var r = 6;
+ var v = 4;
  var power = (v * v) / r;
  console.log(power)
 
