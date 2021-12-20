@@ -60,3 +60,4 @@ console.log(squareArea);
  var power = (v * v) / r;
  console.log(power)
 
+ // example 7 math 
