@@ -37,3 +37,4 @@ var a = 5;
 var b = 6;
 var squareArea = a * b;
 
+ var PI = 3.14;
