@@ -69,4 +69,5 @@ console.log(squareArea);
  // example 8 math
  var a = 23;
  var b = 2;
- 
+ var squareSum = a * a + 2 * a * b + b * b;
+ console.log(squareSum);
