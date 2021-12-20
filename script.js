@@ -38,3 +38,6 @@ var b = 6;
 var squareArea = a * b;
 
  var PI = 3.14;
+ var r = 10;
+ var circleArea = r * r * PI;
+ console.log(circleArea);
