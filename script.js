@@ -65,3 +65,7 @@ console.log(squareArea);
  var r = 5;
  var powerPhysics = (i * i) /r;
  console.log(powerPhysics);
+
+ // example 8 math
+ var a = 23;
+ 
