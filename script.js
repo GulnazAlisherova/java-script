@@ -61,3 +61,5 @@ console.log(squareArea);
  console.log(power)
 
  // example 7 math 
+ var i = 0.2;
+ 
