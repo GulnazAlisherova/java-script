@@ -28,3 +28,6 @@ var vegetables = potatoes + tomatoes;
 console.log(vegetables);
 var result = vegetables / 2;
 console.log(result);
+
+// example 2 math 
+var result = "test";
