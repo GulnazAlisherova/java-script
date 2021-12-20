@@ -7,3 +7,5 @@ var firstName;
 
 //initialite 
 var lastName = "Volkov";
+
+// assignment
