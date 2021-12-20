@@ -46,3 +46,17 @@ console.log(squareArea);
  var r = 10;
  var circleArea = r * r * PI;
  console.log(circleArea);
+
+
+ // example 5 math
+ var b = 4;
+ var h = 6;
+ var circleTriangle = (b + h) / 2;
+ console.log(circleTriangle);
+
+ // example 6 math
+ var v = 4;
+ var r = 6;
+ var power = (v * v) / r;
+ console.log(power)
+
