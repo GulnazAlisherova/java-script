@@ -3,7 +3,7 @@
 // console.log("Hello world");
 
 //declaration
-var firstName, firstN;
+var firstName, firstName1, firstName2, firstName3, just;
 
 //initialite 
 var lastName = "Volkov", middleName = "vasya", tall = "10";
@@ -14,6 +14,7 @@ firstName = "Galya"
 firstName1 = "Vasya";
 firstName2 = "Petya";
 firstName3 = "Bye<3";
+
 
 console.log(just)
 console.log(firstName);
