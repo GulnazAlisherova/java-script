@@ -62,4 +62,5 @@ console.log(squareArea);
 
  // example 7 math 
  var i = 0.2;
+ var r = 5;
  
