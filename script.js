@@ -3,12 +3,11 @@
 // console.log("Hello world");
 
 //declaration
-var firstName;
-var age;
+var firstName, age;
 
 //initialite 
-var lastName = "Volkov";
+var lastName = "Volkov", middleName = "Sonen";
 
 // assignment
-firstName = "Vasya"
-age 
+firstName = "Vasya";
+age = "20";
