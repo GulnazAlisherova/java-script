@@ -30,4 +30,5 @@ var result = vegetables / 2;
 console.log(result);
 
 // example 2 math 
-var result = "test";
+var result = (2 + 1) / 3 - 6 * 2;
+console.log(result);
