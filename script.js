@@ -30,13 +30,18 @@ var result = vegetables / 2;
 console.log(result);
 
 // example 2 math 
-var result = (2 + 1) / 3 - 6 * 2;
+ result = (2 + 1) / 3 - 6 * 2; //10
+ result = 5 + 5 + 10 * 3; //-36
+ console.log(result);
+ 
 
-
+// example 3 math 
 var a = 5;
 var b = 6;
 var squareArea = a * b;
+console.log(squareArea);
 
+// example 4 math 
  var PI = 3.14;
  var r = 10;
  var circleArea = r * r * PI;
