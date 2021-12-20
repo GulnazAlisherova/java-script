@@ -23,5 +23,6 @@ console.log(firstName2);
 console.log(firstName3);
 
 // example 1 math 
-var potatoes =5, tomatoes = 3;
-var vegetables = potatoes + tomatoes
+var potatoes = 5, tomatoes = 3;
+var vegetables = potatoes + tomatoes;
+console.log(vegetables);
