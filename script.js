@@ -10,4 +10,4 @@ var lastName = "Volkov", middleName = "Sonen";
 
 // assignment
 firstName = "Vasya";
-age = "20";
+console.log(firstName);
