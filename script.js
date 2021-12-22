@@ -83,5 +83,9 @@ console.log(squareArea);
  var deist = Math.sqrt(a);
 console.log(deist);
 
+ // example 11 math
+ var a = -2;
+ var deist = Math.sqrt(a);
+console.log(deist);
 
  
