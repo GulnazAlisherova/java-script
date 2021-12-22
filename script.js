@@ -73,7 +73,7 @@ console.log(squareArea);
  console.log(squareSum);
 
  // example 9 math
- var a = 23;
+ var v = 13;
  var b = 2;
  var squareSum = a * a + 2 * a * b + b * b;
  console.log(squareSum);
