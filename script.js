@@ -89,7 +89,7 @@ console.log(deist);
 console.log(deist);
 
 // example 12 math
-var a = -2;
+var a = 90;
 var deist = Math.sqrt(a);
 console.log(deist);
 
