@@ -75,6 +75,6 @@ console.log(squareArea);
  // example 9 math
  var v = 13;
  var t = 0.5;
- var distance = a * a + 2 * a * b + b * b;
- console.log(squareSum);
+ var distance = v * t;
+ console.log(distance);
  
