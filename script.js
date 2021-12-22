@@ -77,4 +77,11 @@ console.log(squareArea);
  var t = 0.5;
  var distance = v * t;
  console.log(distance);
+
+ // example 10 math
+ var a = 9;
+ var deist = Math.sqrt(a);
+console.log(deist);
+
+
  
